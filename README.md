@@ -1,13 +1,15 @@
 # Stanford-CS231n
 These are my attempt to solve the Assignments for CS231n
 
-I have taken a lot of help from https://github.com/MyHumbleSelf/cs231n , https://github.com/bruceoutdoors/CS231n and https://github.com/cthorey/CS231 
+I have taken a lot of help from  https://github.com/MyHumbleSelf/cs231n , https://github.com/bruceoutdoors/CS231n and https://github.com/cthorey/CS231 
 
 ##Some tips and links I have written down while working with assignments
 
 ###Assignment 1
 
-KNN no loops - great talk by Jake https://www.youtube.com/watch?v=EEUXKG97YRw
+KNN no loops - great talk by <a href = "https://www.youtube.com/watch?v=EEUXKG97YRw">Jake </a> 
+
+My notes are <a href = "https://github.com/vijendra-rana/Stanford-CS231n/blob/master/no_loop_knn_notes.pdf">here </a>
 
 a very useful way to get all the scores of correct labels - used very often throughout
 <br>
@@ -34,4 +36,11 @@ http://cthorey.github.io./backprop_conv/
 I could not understand the backprop in convolution neural network so left that part.(May be some other day)
 
 
+###Assignment 3
 
+My notes for Forward backward RNN <a href = ""> here </a>
+Left the assignment for now time constraints but have seen all the videos and notes 200% recommended course for everybody.
+
+Thanks Andrej,Justin and Stanford for making lectures,notes and Assignments public.
+
+Cheers!!!!  
